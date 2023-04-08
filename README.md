@@ -2,6 +2,8 @@
 cs732-se75-assignment-yyan249 created by GitHub Classroom
 # tech demo
  this is a readme file </br>
+ 
+ use npm-install echarts-for-react </br>
  use npm-install first </br>
  then use npm-run-dev to open the port </br>
  
