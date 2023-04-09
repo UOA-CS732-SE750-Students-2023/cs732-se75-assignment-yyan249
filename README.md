@@ -1,6 +1,6 @@
 # cs732-se75-assignment-yyan249
 cs732-se75-assignment-yyan249 created by GitHub Classroom
-## demo description
+## Demo description
  This is a data visualisation website by using the library echarts-for-react, which is a powerful library.
  
  React wrapper of Apache ECharts that is easy to use and best. 
@@ -22,4 +22,6 @@ cs732-se75-assignment-yyan249 created by GitHub Classroom
  
  The page will reload when you make changes.
  
+ ## Tips
+ It is possible that the map will take too long to load. Please refresh the webpage if this happens.
 
