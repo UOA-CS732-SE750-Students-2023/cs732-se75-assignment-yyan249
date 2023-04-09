@@ -11,14 +11,14 @@ cs732-se75-assignment-yyan249 created by GitHub Classroom
 ## A quick start
  First we have to install the echarts-for-react library by:
  ```
- $ npm install echarts-for-react
+ npm install echarts-for-react
  ```
  To run this project, install it locally using npm:
  ``` 
- $ npm install
- $ npm run dev 
+ npm install
+ npm run dev 
  ```
- Open <a>http://localhost:5176</a> to view it in your browser.
+ Open <a>http://localhost:5173/</a> to view it in your browser.
  
  The page will reload when you make changes.
  
