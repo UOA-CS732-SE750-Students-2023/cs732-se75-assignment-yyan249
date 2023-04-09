@@ -18,7 +18,7 @@ cs732-se75-assignment-yyan249 created by GitHub Classroom
  npm install
  npm run dev 
  ```
- Open <a>http://localhost:5173/</a> to view it in your browser.
+ Open <a>http://localhost:5173</a> to view it in your browser.
  
  The page will reload when you make changes.
  
